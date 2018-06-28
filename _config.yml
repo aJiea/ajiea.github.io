@@ -49,7 +49,7 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  email: 'chasorg2778@163.com'
+  email: '//chasorg2778@163.com'
   zhihu: '//zhihu.com/people/chasorg/activities'
   github: '//github.com/ChasorG'
 
