@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'GYC的博客'
 description: '给你分享一些有意思的东西'
-keyword: '廖柯宇, 廖柯宇的独立博客, 廖柯宇的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
+keyword: 'GYC的博客 HFUTer C/C++ 嵌入式开发 python 深度学习'
 url: 'https://chasorg.github.io/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -49,10 +49,9 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  email: 'chasorg2778@163.com'
+  zhihu: '//zhihu.com/people/chasorg/activities'
+  github: '//github.com/ChasorG'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
