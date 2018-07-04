@@ -105,6 +105,7 @@ while True:
 同样于上面的功能
 
 > 主程序while死循环
+
 > 另一个子函数subThread(n)从0到n不断计数并输出
 
 用Java的实现如下：
@@ -163,6 +164,18 @@ while True:
   }
  ```
 ```
+
+
+```
+<pre>
+<code class="language-Java">
+test
+</code>
+</pre>
+```
+
+
+
 运行结果如下：
 ![Java多线程运行结果](https://img-blog.csdn.net/20180704112501431?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzE5Nzk5NzY1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
