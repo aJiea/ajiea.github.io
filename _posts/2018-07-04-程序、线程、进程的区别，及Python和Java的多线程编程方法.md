@@ -135,6 +135,34 @@ while True:
       }
     }
     ```
+```
+ ```Java
+  public class main {
+    public static void main(String[] args) {	
+      
+      SubThread  a  = new SubThread(6);  //新建子线程对象
+      a.start();  //启动线程	
+      //主线程
+      while(true) {
+        System.out.println("主线程");
+      }
+    }
+  }
+  class SubThread extends Thread{
+    int n;
+    public SubThread(int n) {  //构造方法
+      this.n = n;
+    }
+    //重写Thread类中的run()方法
+    public void run(){
+      while(true) {
+        for(int i=0;i<n;++i)
+        System.out.println("子线程："+i);	
+      }
+    }
+  }
+ ```
+```
 运行结果如下：
 ![Java多线程运行结果](https://img-blog.csdn.net/20180704112501431?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzE5Nzk5NzY1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
