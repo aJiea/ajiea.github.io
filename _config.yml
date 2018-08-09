@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: 'GYC的博客'
-description: '给你分享一些有意思的东西'
+description: '分享一些有意思的东西'
 keyword: 'GYC的博客 HFUTer C/C++ 嵌入式开发 python 深度学习'
 url: 'https://chasorg.github.io/' # your host
 
@@ -30,7 +30,7 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: false
+  disqus: true
   disqus_url: 'https://chasorg.github.io/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
