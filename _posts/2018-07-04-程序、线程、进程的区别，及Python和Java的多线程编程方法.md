@@ -13,10 +13,9 @@ tags: Java Python
 前段时间，在做一个Python项目的时候，需要将窗口的线程和数据处理的线程分开处理，因此使用了Python的多线程管理；最近复习Java的时候再次接触到了Java的线程管理。温故知新，写下这篇关于线程的博客。
 
 
-{% highlight ruby %}
-test code1
-  suojin
-{% endhighlight %}
+
+
+
 
     test code2
     test code aaa
@@ -48,7 +47,7 @@ test code3
 > 另一个子函数subFun(n)从0到n不断计数并输出
 
 先写出来试试
-```
+{% highlight Python %}
 # coding:utf-8
 def subFun(n):
     while True:
@@ -59,7 +58,7 @@ def subFun(n):
 subFun(6)          #子程序从0到n循环并输出
 while True:        #主程序whlie死循环
     print("主线程")
-```
+{% endhighlight %}
 以上程序是否可行呢？
 很明显，不可行！因为在subFun中有一个死循环，因此无法运行到主程序的while循环。
 
