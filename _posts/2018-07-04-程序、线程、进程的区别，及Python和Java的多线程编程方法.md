@@ -90,20 +90,20 @@ while True:
 # 三、Java中的多线程`Thread`类
 在Java中，每个Java程序都有一个默认的主线程，当程序进入到main方法后，会启动这个默认的主线程，该线程负责执行main方法。而如果需要创建子线程，就需要创建一个继承于Thread的子类。
 
-    ```Java
-    public class SubThread extends Thread{
-      ...
-    }
-    ```
+```Java
+public class SubThread extends Thread{
+  ...
+}
+```
 当Java虚拟机执行到该线程时，会调用`Thread`类中的`run()`方法，因此，我们要在子类中重写`run()`方法以规定子线程的具体使命。
 
-    ```Java
-    public class SubThread extends Thread{
-      public void run(){
-        ... //该线程要做的事
-      }
-    }
-    ```
+```Java
+public class SubThread extends Thread{
+  public void run(){
+    ... //该线程要做的事
+  }
+}
+```
 同样于上面的功能
 
 > 主程序while死循环
@@ -112,77 +112,32 @@ while True:
 
 用Java的实现如下：
 
-    ``` Java
-    public class main {
-      public static void main(String[] args) {	
-        
-        SubThread  a  = new SubThread(6);  //新建子线程对象
-        a.start();  //启动线程	
-        //主线程
-        while(true) {
-          System.out.println("主线程");
-        }
-      }
-    }
-    class SubThread extends Thread{
-      int n;
-      public SubThread(int n) {  //构造方法
-        this.n = n;
-      }
-      //重写Thread类中的run()方法
-      public void run(){
-        while(true) {
-          for(int i=0;i<n;++i)
-          System.out.println("子线程："+i);	
-        }
-      }
-    }
-    ```
-```
- ```Java
-  public class main {
-    public static void main(String[] args) {	
-      
-      SubThread  a  = new SubThread(6);  //新建子线程对象
-      a.start();  //启动线程	
-      //主线程
-      while(true) {
-        System.out.println("主线程");
-      }
+```Java
+public class main {
+  public static void main(String[] args) {	
+    
+    SubThread  a  = new SubThread(6);  //新建子线程对象
+    a.start();  //启动线程	
+    //主线程
+    while(true) {
+      System.out.println("主线程");
     }
   }
-  class SubThread extends Thread{
-    int n;
-    public SubThread(int n) {  //构造方法
-      this.n = n;
-    }
-    //重写Thread类中的run()方法
-    public void run(){
-      while(true) {
-        for(int i=0;i<n;++i)
-        System.out.println("子线程："+i);	
-      }
+}
+class SubThread extends Thread{
+  int n;
+  public SubThread(int n) {  //构造方法
+    this.n = n;
+  }
+  //重写Thread类中的run()方法
+  public void run(){
+    while(true) {
+      for(int i=0;i<n;++i)
+      System.out.println("子线程："+i);	
     }
   }
- ```
+}
 ```
-
-
-```
-<pre>
-<code class="language-Java">
-test
-</code>
-</pre>
-```
-
-
-
-
-	 ```css
-		p { color: red }
-	 ```
-   
 
 
 运行结果如下：
