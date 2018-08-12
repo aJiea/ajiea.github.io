@@ -47,7 +47,7 @@ test code3
 > 另一个子函数subFun(n)从0到n不断计数并输出
 
 先写出来试试
-{% highlight Python lineno %}
+{% highlight Python linenos %}
 # coding:utf-8
 def subFun(n):
     while True:
