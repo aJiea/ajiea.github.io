@@ -12,6 +12,19 @@ tags: Java Python
 
 前段时间，在做一个Python项目的时候，需要将窗口的线程和数据处理的线程分开处理，因此使用了Python的多线程管理；最近复习Java的时候再次接触到了Java的线程管理。温故知新，写下这篇关于线程的博客。
 
+
+'''
+test code1
+'''
+
+    test code2
+    test code aaa
+    
+```
+test code3
+```
+    
+
 # 一、综述
 
 ### 什么是程序
@@ -180,6 +193,8 @@ test
 	 ```css
 		p { color: red }
 	 ```
+   
+
 
 运行结果如下：
 ![Java多线程运行结果](https://img-blog.csdn.net/20180704112501431?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzE5Nzk5NzY1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
