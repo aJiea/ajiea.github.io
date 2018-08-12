@@ -13,9 +13,10 @@ tags: Java Python
 前段时间，在做一个Python项目的时候，需要将窗口的线程和数据处理的线程分开处理，因此使用了Python的多线程管理；最近复习Java的时候再次接触到了Java的线程管理。温故知新，写下这篇关于线程的博客。
 
 
-'''
+{% highlight ruby %}
 test code1
-'''
+  suojin
+{% endhighlight %}
 
     test code2
     test code aaa
