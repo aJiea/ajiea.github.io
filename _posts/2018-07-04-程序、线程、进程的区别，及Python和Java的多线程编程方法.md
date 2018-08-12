@@ -47,7 +47,8 @@ test code3
 > 另一个子函数subFun(n)从0到n不断计数并输出
 
 先写出来试试
-{% highlight Python linenos %}
+
+{% highlight python linenos %}
 # coding:utf-8
 def subFun(n):
     while True:
@@ -59,6 +60,7 @@ subFun(6)          #子程序从0到n循环并输出
 while True:        #主程序whlie死循环
     print("主线程")
 {% endhighlight %}
+
 以上程序是否可行呢？
 很明显，不可行！因为在subFun中有一个死循环，因此无法运行到主程序的while循环。
 
