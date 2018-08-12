@@ -52,7 +52,7 @@ while True:        #主程序whlie死循环
 很明显，不可行！因为在subFun中有一个死循环，因此无法运行到主程序的while循环。
 
 运行结果如图
-![错误示例](https://img-blog.csdn.net/201807022139367?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzE5Nzk5NzY1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![错误示例](https://raw.githubusercontent.com/ChasorG/ChasorG.github.io/master/_posts/180704/wrong.png)
 由上可见，这两段造成了相互的干扰而无法同时运行。
 
 &nbsp;
@@ -85,7 +85,7 @@ while True:
     print("主线程")
 ```
 运行结果如图：
-![正确示例](https://img-blog.csdn.net/20180702215600173?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzE5Nzk5NzY1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![正确示例](https://raw.githubusercontent.com/ChasorG/ChasorG.github.io/master/_posts/180704/right.png)
 
 # 三、Java中的多线程`Thread`类
 在Java中，每个Java程序都有一个默认的主线程，当程序进入到main方法后，会启动这个默认的主线程，该线程负责执行main方法。而如果需要创建子线程，就需要创建一个继承于Thread的子类。
@@ -141,5 +141,5 @@ class SubThread extends Thread{
 
 
 运行结果如下：
-![Java多线程运行结果](https://img-blog.csdn.net/20180704112501431?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzE5Nzk5NzY1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![Java多线程运行结果](https://raw.githubusercontent.com/ChasorG/ChasorG.github.io/master/_posts/180704/java.png)
 

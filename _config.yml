@@ -37,14 +37,14 @@ comments:
   disqus_url: 'https://chasorg.github.io/embed.js'
 
 livere: true
-livere_uid: MTAyMC8yODEwMC80Njcz
+livere_uid: MTAyMC8zODgxNi8xNTM0NA==
 
 # Reward 赞赏功能 by Ray-Eldath
 reward:
-  enable: false
+  enable: true
   reward_comment: '真诚赞赏 手有余香'
-  wechatpay: ''
-  alipay: ''
+  wechatpay: '/assets/img/wechat.jpg'
+  alipay: '/assets/img/alipay.jpg'
 
 # b2t 回到顶部 by Ray-Eldath
 b2t: true
