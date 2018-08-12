@@ -28,12 +28,28 @@ search: true
 # Night mode
 nightMode: true
 
+# Global comments setting
+comments: true
+
 # Comments 评论功能
 comments:
   disqus: true
   disqus_url: 'https://chasorg.github.io/embed.js'
 
-# MathJax 公式支持 by Ray-Eldath
+livere: true
+livere_uid: MTAyMC8yODEwMC80Njcz
+
+# Reward 赞赏功能 by Ray-Eldath
+reward:
+  enable: false
+  reward_comment: '真诚赞赏 手有余香'
+  wechatpay: ''
+  alipay: ''
+
+# b2t 回到顶部 by Ray-Eldath
+b2t: true
+
+# MathJax 公式支持
 mathjax: true
 
 # Share
@@ -69,7 +85,7 @@ kramdown:
   input: GFM
 
 # RSS
-RSS: false
+RSS: true
 
 # Permalink
 # See: https://github.com/kaeyleo/jekyll-theme-H2O/issues/35

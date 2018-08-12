@@ -25,8 +25,8 @@
     </div>
     {% if page.cover %}
     <div class="filter"></div>
-      <div class="post-cover" style="background: url('{{ page.cover }}') center no-repeat; background-size: cover;"></div>
-    {% endif %}
+    <div class="post-cover" style="background: url('{{ page.cover }}') center no-repeat; background-size: cover;">
+      {% endif %}
   </header>
 
   <div class="post-content visible">
@@ -37,6 +37,10 @@
     <article class="markdown-body">
       {{ page.content }}
     </article>
+
+    {% if site.reward.enable %}
+      {% include reward.html %}
+    {% endif %}
 
     {% if site.social-share %}
     <div class="social-share-wrapper">
@@ -95,9 +99,28 @@
       </div>
       {% endif %}
     </section>
+
+    {% if site.disqus %}
     <section class="post-footer-item comment">
       <div id="disqus_thread"></div>
     </section>
+    {% endif %}
+
+    {% if site.livere %}
+    <section class="post-footer-item comment">
+      <div id="lv-container" data-id="city" data-uid="{{ site.livere_uid }}">
+    </section>
+    {% endif %}
+
+    {% if page.comments and site.comments %}
+    <section class="post-footer-item comment">
+        <!-- <div id="comments"></div> -->
+        <div id="gitalk-container"></div>
+    </section>
+    {% endif %}
+
+
+
   </section>
 
   {% include footer.html %}
@@ -117,7 +140,7 @@
     });
   </script>
 
-  {% if site.comments.disqus %}
+{% if site.disqus %}
   <script>
     /**
      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
@@ -131,16 +154,65 @@
     (function() { // DON'T EDIT BELOW THIS LINE
       var d = document,
         s = d.createElement('script');
-      s.src = '{{ site.comments.disqus_url }}';
+      /*写入自己的disqus信息*/
+      s.src = '{{ site.disqus_url }}';
       s.setAttribute('data-timestamp', +new Date());
-
       (d.head || d.body).appendChild(s);
     })();
+
+</script>
+{% endif %}
+
+{% if site.livere %}
+<script>
+    (function(d, s) {
+      var j, e = d.getElementsByTagName(s)[0];
+
+      if (typeof LivereTower === 'function') {
+        return;
+      }
+
+      j = d.createElement(s);
+      j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+      j.async = true;
+
+      e.parentNode.insertBefore(j, e);
+    })(document, 'script');
+
+  </script>
+{% endif %}
+
+  <noscript>为正常使用评论功能请激活JavaScript。</noscript>
+  
+  <script src="/assets/js/prism.js"></script>
+  <script src="/assets/js/index.min.js"></script>
+  <!-- <script src="/assets/js/gitment.browser.js"></script> -->
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+  {% if page.comments and site.comments %}
+  <script>
+        // (new Gitment({
+        //   owner: 'gongchunru',
+        //   repo: 'gongchunru.github.io',
+        //   oauth: {
+        //     client_id: '525e13e388ef9a9b631b',
+        //     client_secret: '61bf2527615ab25942de4b4dba6ba489b9d123a6',
+        //   },
+        // })).render('comments');
+        const gitalk = new Gitalk({
+            clientID: '525e13e388ef9a9b631b',
+            clientSecret: '61bf2527615ab25942de4b4dba6ba489b9d123a6',
+            repo: 'gongchunru.github.io',
+            owner: 'gongchunru',
+            admin: ['gongchunru'],
+            // id: location.pathname,      // Ensure uniqueness and length less than 50
+            id: "{{ page.url | prepend: site.host_url }}",
+            distractionFreeMode: false  // Facebook-like distraction free mode
+          })
+          gitalk.render('gitalk-container')
   </script>
   {% endif %}
 
-  <script src="/assets/js/prism.js"></script>
-  <script src="/assets/js/index.min.js"></script>
 </body>
 
 </html>
