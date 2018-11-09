@@ -2,7 +2,7 @@
 title: 'GYC的博客|郭义臣'
 description: '分享一些有意思的东西'
 keyword: 'GYC的博客 HFUTer C/C++ 嵌入式开发 python 深度学习'
-url: 'http://gycblog.xyz' # your host
+url: 'https://gycblog.xyz' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -74,7 +74,7 @@ recommend-tags: true # whether or not display recommend-tags on the sidebar
 recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
 
 # Build settings
-paginate: 6
+paginate: 2
 paginate_path: 'page:num'
 exclude: ['node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'README.md']
 
