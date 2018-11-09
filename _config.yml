@@ -2,7 +2,7 @@
 title: 'GYC的博客|郭义臣'
 description: '分享一些有意思的东西'
 keyword: 'GYC的博客 HFUTer C/C++ 嵌入式开发 python 深度学习'
-url: 'https://gycblog.xyz' # your host
+url: 'http://gycblog.xyz' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
