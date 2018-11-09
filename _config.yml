@@ -19,7 +19,7 @@ footer:
 # Author 配置博主信息
 author: '郭义臣'
 nickname: '锟斤拷'
-bio: '独立思考 热爱生活'
+bio: '独立思考 热爱生活\ntest'
 avatar: '/assets/img/profile.jpg'
 
 # Search
@@ -74,7 +74,7 @@ recommend-tags: true # whether or not display recommend-tags on the sidebar
 recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
 
 # Build settings
-paginate: 2
+paginate: 5
 paginate_path: 'page:num'
 exclude: ['node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'README.md']
 
