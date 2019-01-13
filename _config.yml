@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'GYC的博客|郭义臣'
+title: '郭义臣的博客'
 description: '分享一些有意思的东西'
-keyword: 'GYC的博客 HFUTer C/C++ 嵌入式开发 python 深度学习'
+keyword: '郭义臣 GitHub 博客 HFUTer C/C++ 嵌入式开发 python 深度学习'
 url: 'https://gycblog.xyz' # your host
 
 # if you don't need baseurl, you should leave this value blank.
