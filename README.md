@@ -1,1 +1,1 @@
-个人主页：https://gycblog.xyz
+个人主页：https://ajiea.github.io
