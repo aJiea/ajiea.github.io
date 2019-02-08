@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: '郭义臣的博客'
-description: '分享一些有意思的东西'
-keyword: '郭义臣 GitHub 博客 HFUTer C/C++ 嵌入式开发 python 深度学习'
-url: 'https://gycblog.xyz' # your host
+title: '章鱼狗思想录 - Octodog🐙🐶'
+description: '像章鱼🐙一样触角伸到各行各业，像狗🐶一样嗅觉灵敏获取有效信息。'
+keyword: '章鱼狗 GitHub 思想录 法国文化 生活探索 python 学习'
+url: 'https://ajiea.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -14,12 +14,12 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2019
 
 # Author 配置博主信息
-author: '郭义臣 | HFUTer'
-nickname: '锟斤拷'
-bio: '独立思考 热爱生活'
+author: '章鱼狗'
+nickname: 'Octodog🐙🐶'
+bio: '像章鱼🐙一样触角伸到各行各业，像狗🐶一样嗅觉灵敏获取有效信息。'
 avatar: '/assets/img/profile.jpg'
 
 # Search
@@ -54,7 +54,7 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
+social-share-items: ['wechat', 'weibo', 'douban']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
@@ -65,9 +65,9 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  email: 'mailto:chasorg2778@163.com'
-  zhihu: '//zhihu.com/people/chasorg/activities'
-  github: '//github.com/ChasorG'
+  email: 'mailto:octodog@qq.com'
+  wechat: 'levraitravail'
+  github: '//github.com/aJiea'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
