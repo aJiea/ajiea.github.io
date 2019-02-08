@@ -42,7 +42,7 @@ livere_uid: MTAyMC8zODgxNi8xNTM0NA==
 # Reward 赞赏功能 by Ray-Eldath
 reward:
   enable: true
-  reward_comment: '真诚赞赏 手有余香'
+  reward_comment: '请 Octodog🐙🐶 喝杯咖啡？'
   wechatpay: '/assets/img/wechat.png'
   alipay: '/assets/img/alipay.jpg'
 
