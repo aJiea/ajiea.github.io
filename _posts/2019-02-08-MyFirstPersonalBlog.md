@@ -52,5 +52,5 @@ categories: 'LIFE'
 
 ## 联系我
 
-Email：octodog@qq.com <br/>
+Email: octodog@qq.com <br/>
 Wechat: levraitravail
