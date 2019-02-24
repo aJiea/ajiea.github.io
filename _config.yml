@@ -31,13 +31,7 @@ nightMode: false
 # Global comments setting
 comments: true
 
-# Comments 评论功能
-comments:
-  disqus: true
-  disqus_url: 'https://chasorg.github.io/embed.js'
 
-livere: true
-livere_uid: MTAyMC8zODgxNi8xNTM0NA==
 
 # Reward 赞赏功能 by Ray-Eldath
 reward:
