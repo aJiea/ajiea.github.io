@@ -38,6 +38,17 @@ reward:
   reward_comment: '请 Octodog🐙🐶 喝杯咖啡？'
   wechatpay: '/assets/img/wechat.png'
   alipay: '/assets/img/alipay.jpg'
+  
+# utterances github issue comments
+
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/aJiea/ajiea.github.io"
+        issue-term="pathname"
+        label="Comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 # b2t 回到顶部 by Ray-Eldath
 b2t: true
