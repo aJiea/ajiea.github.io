@@ -31,7 +31,13 @@ nightMode: false
 # Global comments setting
 comments: true
 
-
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/aJiea/ajiea.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 # Reward 赞赏功能 by Ray-Eldath
 reward:
