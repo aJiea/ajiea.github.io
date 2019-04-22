@@ -35,7 +35,7 @@ comments: true
 # Reward 赞赏功能 by Ray-Eldath
 reward:
   enable: true
-  reward_comment: '感觉这篇文章就请 Octodog🐙🐶 喝杯咖啡'
+  reward_comment: '感觉这篇文章有用，就请 Octodog🐙🐶 喝杯咖啡'
   wechatpay: '/assets/img/wechat.png'
   alipay: '/assets/img/alipay.jpg'
   
