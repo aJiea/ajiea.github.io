@@ -39,6 +39,15 @@ reward:
   wechatpay: '/assets/img/wechat.png'
   alipay: '/assets/img/alipay.jpg'
   
+# 评论 utterance 功能
+<script src="https://utteranc.es/client.js"
+        repo="aJiea/ajiea.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+  
 
 # b2t 回到顶部 by Ray-Eldath
 b2t: true
