@@ -1,4 +1,5 @@
- ---
+
+---
 title: 为什么微信前10强里，有个企业号？
 layout: post
 data: '2019-04-23'
@@ -6,7 +7,6 @@ author: Octodog🐙🐶
 tags: WRITING
 categories: 'WRITING'
 ---
-
 
 《我的天然工坊》，微信前10强中唯一的企业号<br/>
 目前拥有2700万用户，一个单品竹妃纸业，1年卖了5个亿。
