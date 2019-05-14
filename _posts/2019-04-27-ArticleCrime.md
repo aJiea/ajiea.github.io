@@ -3,8 +3,8 @@ title: 那些也是醉了的文案罪
 layout: post
 data: '2019-04-27'
 author: Octodog🐙🐶
-tags: COGNITIVE
-categories: 'COGNITIVE'
+tags: COGNITION
+categories: 'COGNITION'
 ---
 
 
