@@ -9,7 +9,7 @@ categories: 'ARCHITECTURE'
 
 
 
-## 地理人文
+##  :japanese_castle: 地理人文
 
 ### 类型鉴别
 
@@ -41,7 +41,9 @@ categories: 'ARCHITECTURE'
 
 - 建筑和名人或百姓之间的故事 
 
-## 功能
+<br/>
+
+##  :japanese_castle: 功能
 
 ### 防御问题
 
@@ -56,7 +58,9 @@ categories: 'ARCHITECTURE'
 
 ### 宗教
 
-## 结构
+<br/>
+
+##  :japanese_castle: 结构
 
 ### 装饰艺术
 
