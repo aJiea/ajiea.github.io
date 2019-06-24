@@ -9,7 +9,7 @@ categories: 'ARCHITECTURE'
 
 
 
-##  :japanese_castle: 地理人文
+## 🏯 地理人文
 
 ### 类型鉴别
 
@@ -43,7 +43,7 @@ categories: 'ARCHITECTURE'
 
 <br/>
 
-##  :japanese_castle: 功能
+## 🏯 功能
 
 ### 防御问题
 
@@ -60,7 +60,7 @@ categories: 'ARCHITECTURE'
 
 <br/>
 
-##  :japanese_castle: 结构
+## 🏯 结构
 
 ### 装饰艺术
 
