@@ -4,6 +4,7 @@ layout: post
 data: '2019-05-14'
 author: Octodog🐙🐶
 tags: READING
+cover: 'https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/190514/cover.jpg'
 categories: 'READING'
 ---
 
