@@ -4,6 +4,7 @@ layout: post
 data: '2019-06-24'
 author: Octodog🐙🐶
 tags: ARCHITECTURE
+cover: 'https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/190624/cover.jpg'
 categories: 'ARCHITECTURE'
 ---
 
