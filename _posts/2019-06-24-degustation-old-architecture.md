@@ -8,7 +8,7 @@ cover: 'https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/19
 categories: 'ARCHITECTURE'
 ---
 
-![Home](https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/190624/%E5%A6%82%E4%BD%95%E5%93%81%E5%8F%A4%E5%BB%BA.png)
+![Home](https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/190624/degustation-old-architecture.png)
 
 ## 🏯 地理人文
 
