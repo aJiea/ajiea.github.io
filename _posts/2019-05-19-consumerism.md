@@ -4,7 +4,7 @@ layout: post
 data: '2019-05-19'
 author: Octodog🐙🐶
 tags: COGNITION
-cover: 'https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/190519/cover1.png'
+cover: 'https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/190519/cover1.jpg'
 categories: 'COGNITION'
 ---
 
