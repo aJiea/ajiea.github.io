@@ -12,13 +12,13 @@ categories: 'COGNITION'
 上个月看几位唐家画家画画。唐悦作画，画素描没带工具，拿着2B铅笔，说不好用，到处找炭铅。他说，“我画画不喜欢用线，喜欢用面。” 整幅素描用炭铅的侧面构造面，画的是光线而非线条，抓的是神态而非细节。画作大气，人物炯炯有神，短短不到一刻钟，可见面里十年功。
 <br/>
 
-![](https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/190908/TANGYUE.JPG)
+![唐悦写生](https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/190908/TANGYUE.JPG)
 
 
 还有一位喜欢的画家逸少，可驾驭不同风格，最让我吃惊的是他的超写实油画。画的少女，耳朵红润透明，看得见阳光从耳壁上绒毛间穿过的温度，看不见点和线的边界，笔触自然，融合成一副整体的面。他一般在家里画画，我想象他作画过程，肯定不是先来就把耳朵描得这么细，而是先拿笔确定几个关系位置，将整体人物比例和结构钉在纸上。
 <br/>
 
-![](https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/190908/BAIYI.JPG)
+![逸少作品](https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/190908/BAIYI.JPG)
 
 之前邀请在美国研究钱币史，修艺术史的朋友做主题分享，通过分享强化学习。她和我讨论“元学习”，即研究学习的学习。生词或陌生术语，当这个量达到两万+后，会影响阅读。一些人的学习方法是把生词一个个勾写下来，便于强化记忆，但这样“点”式学习方法，特别花时间，还记不住。
 <br/>
