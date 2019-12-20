@@ -8,7 +8,7 @@ cover: 'https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/19
 categories: 'LIFE'
 ---
 
-他说：“我是xxx。”
+他说：“我是xxx。” 
 <br/>若是其他人，肯定会回复“哇，你好厉害。”
 <br/>我却什么都说不出来，心里想：我已经知道了啊。
 <br/>
