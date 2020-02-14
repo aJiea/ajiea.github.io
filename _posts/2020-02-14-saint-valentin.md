@@ -65,3 +65,9 @@ Only you, only you<br/>
 等你<br/>
 想你<br/>
 念你
+
+<br/> 即兴哼唱小试 v 1.0
+
+<audio id="audio" controls="" preload="none">
+<source id="mp3" src="https://github.com/aJiea/ajiea.github.io/blob/master/_posts/200214/El%20Amor%20En%20Los%20Tiempos%20Del%20Coronavirus.m4a">
+</audio>
