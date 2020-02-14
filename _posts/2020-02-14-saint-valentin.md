@@ -4,7 +4,7 @@ layout: post
 data: '2020-02-14'
 author: Octodog🐙🐶
 tags: POEM
-cover: 'https://dss1.bdstatic.com/5aAHeD3nKgcUp2HgoI7O1ygwehsv/media/ch1/jpg/%E5%BB%BA%E8%AE%BE%E8%80%85%E9%80%9A%E6%A0%8F%E5%8D%A1%E7%AA%84%E5%B1%8F.jpg'
+cover: 'https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/200214/cover.jpg'
 categories: 'POEM'
 ---
 
