@@ -4,7 +4,7 @@ layout: post
 data: '2020-02-14'
 author: Octodog🐙🐶
 tags: POEM
-cover: 'https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/200214/cover.jpg'
+cover: 'http://q5q7pw9vf.bkt.clouddn.com/cover.jpg?e=1581746643&token=UI8kK1rNt-0hUNEtfOe6HO3Z-nNisGOvT1ko0GW4:u1XYxRTexVDHGfbh-cBtnjTIsSM='
 categories: 'POEM'
 ---
 
@@ -69,5 +69,5 @@ Only you, only you<br/>
 <br/> 即兴哼唱小试 v 1.0
 
 <audio id="audio" controls="" preload="none">
-<source id="mp3" src="https://github.com/aJiea/ajiea.github.io/blob/master/_posts/200214/El%20Amor%20En%20Los%20Tiempos%20Del%20Coronavirus.mp3">
+<source id="mp3" src="http://q5q7pw9vf.bkt.clouddn.com/El%20Amor%20En%20Los%20Tiempos%20Del%20Coronavirus.m4a?e=1581746643&token=UI8kK1rNt-0hUNEtfOe6HO3Z-nNisGOvT1ko0GW4:UseTEWU_3Ze1Da5lj5X6xAHAmG4=">
 </audio>
