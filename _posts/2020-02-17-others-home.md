@@ -74,13 +74,30 @@ ISO | 400 |
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug5.jpg)
 
-拍摄时间 | 2015年05月11日17h41 
+拍摄时间 | 2014年06月08日16h43 
 -|-
 拍摄地点 | 珠海东岸村 |
-快门 | 1/4 秒 f/4 10 毫米 | 
-ISO | 400 | 
+快门 | 1/200 秒 f/7.1 35 毫米 | 
+ISO | 200 | 
 设备 | NIKON D90 |
 
+《晾衣服》 by 青岛王咏
+晾衣架上，厚重的粗布工装
+<br/>
+在秋风里荡来荡去
+<br/>
+像他最后一次走出她视线的背影
+<br/>
+
+她就那么呆呆地看
+<br/>
+三年了，每到这个日子，她都把
+<br/>
+心事和这件工装一起
+<br/>
+摊在深秋里
+<br/>
+晾一晾，再收起来，迎接冬天
 <br/>
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug6.jpg)
@@ -135,5 +152,6 @@ ISO | 400 |
 
 ---
 参考资料
-1、[《明明不是瓦，为何称“明瓦”》 by 	桑金伟](http://zjnews.zjol.com.cn/zjnews/nbnews/201906/t20190625_10407056_ext.shtml)
-2、[《清朝“顶戴花翎”里有秘密》 by 满族文化网](https://baijiahao.baidu.com/s?id=1578317447769734750&wfr=spider&for=pc)
+1. [《明明不是瓦，为何称“明瓦”》 by 	桑金伟](http://zjnews.zjol.com.cn/zjnews/nbnews/201906/t20190625_10407056_ext.shtml)
+2. [《清朝“顶戴花翎”里有秘密》 by 满族文化网](https://baijiahao.baidu.com/s?id=1578317447769734750&wfr=spider&for=pc)
+3. [《晾衣服》 from 中国诗歌网](http://www.zgshige.com/c/2019-10-20/10977829.shtml)
