@@ -4,7 +4,7 @@ layout: post
 data: '2019-10-14'
 author: Octodog🐙🐶
 tags: COGNITION
-cover: 'https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/191014/cover.jpg'
+cover: 'http://q5q7pw9vf.bkt.clouddn.com/191014cover.jpg'
 categories: 'COGNITION'
 ---
 
@@ -36,7 +36,7 @@ categories: 'COGNITION'
 - HOW 应该怎么姿势学？
 - WHAT 学什么？
 
-![Home](https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/191014/why.jpg)
+![](http://q5q7pw9vf.bkt.clouddn.com/191014why.jpg)
 
 <br/>
 中国学生在习语过程中遇到一些本末倒置问题，大多出自于没有梳理清这个体系。比如，一来就去买畅销语法书，买单词书，下载几个app背单词，一股热情下定目标每天必须学习1h法语……这些都是 WHAT 表面的形式。比如一天学1h法语，需要特别自律，但若目标不明，1h可学这可学那，最后即使花了n x 1h竟然还不会讲法语。那么如何梳理和搭建自学体系呢？
@@ -59,7 +59,7 @@ categories: 'COGNITION'
 
 > 他自己对自己提出要求，自己监督自己，自己监视自己，自己向自己汇报。——《奇特的一生》
 
-![Home](https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/191014/Lyubishchev.jpg)
+![](http://q5q7pw9vf.bkt.clouddn.com/191014Lyubishchev.jpg)
 
 ## 大脑是怎么学习语言的(HOW)
 
