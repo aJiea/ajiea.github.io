@@ -8,8 +8,6 @@ cover: 'http://q5q7pw9vf.bkt.clouddn.com/cover.jpg?e=1581746643&token=UI8kK1rNt-
 categories: 'POEM'
 ---
 
-### 《疫·情》
-
 El Amor En Los Tiempos Del Coronavirus
 
 
