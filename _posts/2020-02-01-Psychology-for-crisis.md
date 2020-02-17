@@ -4,7 +4,7 @@ layout: post
 data: '2020-02-01'
 author: Octodog🐙🐶
 tags: PSYCOLOGY
-cover: 'https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/200201/COVER.JPG'
+cover: 'http://q5q7pw9vf.bkt.clouddn.com/200201cover.jpg'
 categories: 'PSYCHOLOGY'
 ---
 

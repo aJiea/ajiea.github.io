@@ -4,7 +4,7 @@ layout: post
 data: '2019-12-20'
 author: Octodog🐙🐶
 tags: LIFE
-cover: 'https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/191220/cover.JPG'
+cover: 'http://q5q7pw9vf.bkt.clouddn.com/191220cover.jpg'
 categories: 'LIFE'
 ---
 
