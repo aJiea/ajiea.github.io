@@ -15,6 +15,7 @@ categories: 'PHOTOGRAPHY'
 《长物志》的作者、明末画家文震亨是园林艺术践行者。他认为居所应是**“令居之者忘老，寓之者忘归，游之者忘倦”**之地。
 
 现今的人们理想中的家是什么样的？他们家的现状又是怎样的？摄影师 Bug，带着他的 shutter 走进了几个不同人的家。
+<br/>
 
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug1.jpg)
@@ -29,6 +30,7 @@ ISO | 80 |
 对村里的孩子来讲，整个村都是家。古墙下、青石板小道间、和小伙伴聚会的祠堂门槛上……
 <br/>
 
+
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug2.jpg)
 
 拍摄时间 | 2016年03月01日11h37 
@@ -41,6 +43,7 @@ ISO | 80 |
 唐家古镇还可以见到挺多这样的房子，好像原来的设计本是一间平房，后来像做三明治一样又加了一层，门口再镶一道供一人行走的楼梯。（乱编的……）
 <br/>
 
+
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug3.jpg)
 
 拍摄时间 | 2013年04月24日22h20 
@@ -52,6 +55,7 @@ ISO | 400 |
 
 清朝很注重花翎。花翎清代官员的冠饰，是用孔雀的翎毛饰于冠帽后，其中以翎眼多者为贵，分一眼，二眼，三眼，三眼最尊贵，所谓“眼”指的是孔雀翎上的眼状的圆，一个圆圈就算做一眼。主要是用来对应官员职位高低的一种穿戴饰品。清代勋臣中功勋卓著或恩宠有加者才能得到皇上赏赐的双眼花翎。图片中的杨氏一家将这份荣耀挂在祠堂里。
 <br/>
+
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug4.jpg)
 
@@ -71,6 +75,7 @@ ISO | 400 |
 2. 明胶，动物皮、骨、肌膜等结缔组织中的胶原部分，降解而成为白色或淡黄色、半透明的胶液或粉粒。无色无味、无挥发性、透明坚硬的非晶体物质，可溶于热水，不溶于冷水，但可以缓慢吸水膨胀软化。在明代，南京是明瓦的制造中心，现在仍保留“明瓦廊”这一地名。据载，南京明瓦廊制作明瓦所用的明胶大多由羊角熬成，故称“羊角明胶”，由羊角明胶压成的明瓦俗称“明角”。明清两代，南京大小街巷中普遍使用的就是这种明瓦。明清时，苏州人烟稠密，房屋连片，明瓦的需求量很大。据说最多时，苏州曾有40多家店铺经营明瓦，道光年间还在阊门外成立了明瓦公所。
 3. 天然云母，呈六方形片状晶体矿物质，性柔易分割且无污染，绝缘、阻热。云母切割成薄片，又轻又薄，透光性强。
 <br/>
+
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug5.jpg)
 
@@ -100,41 +105,88 @@ ISO | 200 |
 晾一晾，再收起来，迎接冬天
 <br/>
 
+
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug6.jpg)
+
+拍摄时间 | 2015年10月30日17h48 
+-|-
+拍摄地点 | 珠海斗门 |
+快门 | 1/125 秒 f/5.6 35 毫米 | 
+ISO | 400 | 
+设备 | NIKON D90 |
 <br/>
+
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug7.jpg)
+
+拍摄时间 | 2015年05月30日11h07 
+-|-
+拍摄地点 | 珠海唐家古镇山房路 |
+快门 | 1/400 秒 f/10 35 毫米 | 
+ISO | 200 | 
+设备 | NIKON D90 |
 <br/>
+
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug8.jpg)
+
+拍摄时间 | 2016年12月02日16h15 
+-|-
+拍摄地点 | 珠海唐家古镇 |
+快门 | 1/50 秒 f/3.5 18 毫米 | 
+ISO | 400 | 
+设备 | NIKON D90 |
 <br/>
+
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug9.jpg)
+![](http://q5q7pw9vf.bkt.clouddn.com/home-bug10.jpg)
+![](http://q5q7pw9vf.bkt.clouddn.com/home-bug12.jpg)
+![](http://q5q7pw9vf.bkt.clouddn.com/home-bug13.jpg)
+![](http://q5q7pw9vf.bkt.clouddn.com/home-bug14.jpg)
+
+拍摄时间 | 2012年02月18日17h24 
+-|-
+拍摄地点 | 珠海东岸村 |
+ISO | 200 | 
+设备 | NIKON D90 |
+
+东岸村一个戏剧摄影工作者的家，现在这栋房子已成为东岸村中的一片平地。（最好可以加张现状图）
 <br/>
 
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug10.jpg)
-<br/>
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug11.jpg)
-<br/>
 
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug12.jpg)
-<br/>
-
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug13.jpg)
-<br/>
-
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug14.jpg)
-<br/>
-
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug14.jpg)
-<br/>
+拍摄时间 | 2011年02月02日18h09 
+-|-
+拍摄地点 | 珠海东岸村 |
+快门 | 1/60 秒 f/5 10 毫米 | 
+ISO | 400 | 
+设备 | NIKON D90 |
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug16.jpg)
+
+拍摄时间 | 2015年02月16日00h04 
+-|-
+拍摄地点 | 珠海东岸村 |
+快门 | 1/5 秒 f/4 10 毫米 | 
+ISO | 1600 | 
+设备 | NIKON D90 |
+
+音乐工作者的家族祖屋
 <br/>
 
+
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug17.jpg)
+
+拍摄时间 | 2014年05月27日18h32 
+-|-
+拍摄地点 | 珠海唐家古镇 |
+快门 | 1/160 秒 f/5.4 17.9 毫米 | 
+ISO | 100 | 
+设备 | SM-C101 |
 <br/>
+
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug18.jpg)
 <br/>
