@@ -189,17 +189,89 @@ ISO | 100 |
 
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug18.jpg)
+
+拍摄时间 | 2015年11月04日15h10 
+-|-
+拍摄地点 | 珠海唐家古镇社区文化室 |
+快门 | 1/60 秒 f/2.8 35 毫米 | 
+ISO | 400 | 
+设备 | NIKON D600 |
 <br/>
+
+
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug19.jpg)
+
+拍摄时间 | 2015年08月13日07h06 
+-|-
+拍摄地点 | 珠海唐家古镇 |
+快门 | 1/60 秒 f/3.5 24 毫米 | 
+ISO | 320 | 
+设备 | NIKON D600 |
 <br/>
+
+
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug20.jpg)
+
+拍摄时间 | 2017年11月11日01h09 
+-|-
+拍摄地点 | 珠海唐家古镇 |
+快门 | 1/100 秒 f/5.6 23 毫米 | 
+ISO | 200 | 
+设备 | X100F |
 <br/>
+
+
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug21.jpg)
+
+拍摄时间 | 2020年02月14日16h58 
+-|-
+拍摄地点 | 珠海唐家古镇 |
+
 <br/>
+
+
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug22.jpg)
+
+拍摄时间 | 2013年11月07日11h57 
+-|-
+拍摄地点 | 珠海唐家古镇 |
+快门 | 1/20 秒 f/3.5 24 毫米 | 
+ISO | 1000 | 
+设备 | NIKON D600 |
+
 <br/>
+
+
+![](http://q5q7pw9vf.bkt.clouddn.com/home-bug15.jpg)
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug23.jpg)
+
+拍摄时间 | 2015年01月29日18h09和23日01h35 
+-|-
+拍摄地点 | 珠海唐家古镇 |
+快门 | 1/40 秒 f/4 10 毫米和1/15 秒 f/2 5.1 毫米 | 
+ISO | 400 | 
+设备 | NIKON D90 和 DMC-LX3 |
+
+音乐工作者的家/工作室/基地/大本营……
+
 <br/>
+
+
+#### 十人谈
+
+采访身边10个有趣的人，他们对家或理想中的家之看法。
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
 
 
 ---
