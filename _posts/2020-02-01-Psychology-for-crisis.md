@@ -8,7 +8,7 @@ cover: 'http://q5q7pw9vf.bkt.clouddn.com/200201cover.jpg'
 categories: 'PSYCHOLOGY'
 ---
 
-《心理援助的意义，及援助中应关注的论理问题》 from 【心系武汉】心理援助工艺项目
+from 【心系武汉】心理援助工艺项目
 
 
 ## 心理援助的意义与功能
