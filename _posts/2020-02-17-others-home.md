@@ -8,7 +8,7 @@ cover: 'http://q5q7pw9vf.bkt.clouddn.com/home-bug1.jpg'
 categories: 'PHOTOGRAPHY'
 ---
 
-> “结庐在人境，而无车马喧。”—— 陶渊明
+> “结庐在人境，而无车马喧……采菊东篱下，悠然见南山。”—— 陶渊明
 
 古代人称呼自己的家为寒舍、草舍、舍下、敝庐……林间河畔结庐而居，是古代名士最理想的居住方式。
 
@@ -74,38 +74,66 @@ ISO | 400 |
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug5.jpg)
 
+拍摄时间 | 2015年05月11日17h41 
+-|-
+拍摄地点 | 珠海东岸村 |
+快门 | 1/4 秒 f/4 10 毫米 | 
+ISO | 400 | 
+设备 | NIKON D90 |
+
+<br/>
+
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug6.jpg)
+<br/>
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug7.jpg)
+<br/>
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug8.jpg)
+<br/>
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug9.jpg)
+<br/>
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug10.jpg)
+<br/>
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug11.jpg)
+<br/>
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug12.jpg)
+<br/>
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug13.jpg)
+<br/>
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug14.jpg)
+<br/>
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug14.jpg)
+<br/>
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug16.jpg)
+<br/>
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug17.jpg)
+<br/>
 
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug18.jpg)
+<br/>
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug19.jpg)
+<br/>
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug20.jpg)
+<br/>
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug21.jpg)
+<br/>
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug22.jpg)
+<br/>
 ![](http://q5q7pw9vf.bkt.clouddn.com/home-bug23.jpg)
+<br/>
 
 
-参考资料：
+---
+参考资料
 1、[《明明不是瓦，为何称“明瓦”》 by 	桑金伟](http://zjnews.zjol.com.cn/zjnews/nbnews/201906/t20190625_10407056_ext.shtml)
 2、[《清朝“顶戴花翎”里有秘密》 by 满族文化网](https://baijiahao.baidu.com/s?id=1578317447769734750&wfr=spider&for=pc)
