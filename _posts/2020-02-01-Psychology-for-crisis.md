@@ -4,7 +4,7 @@ layout: post
 data: '2020-02-01'
 author: Octodog🐙🐶
 tags: PSYCOLOGY
-cover: 'http://q5q7pw9vf.bkt.clouddn.com/200201cover.jpg'
+cover: 'http://q5q7pw9vf.bkt.clouddn.com/200201cover1.jpg'
 categories: 'PSYCHOLOGY'
 ---
 
