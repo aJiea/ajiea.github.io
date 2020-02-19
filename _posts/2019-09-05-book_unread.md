@@ -4,7 +4,7 @@ layout: post
 data: '2019-09-05'
 author: Octodog🐙🐶
 tags: WRITING
-cover: 'https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/190905/cover.jpg'
+cover: 'http://q5q7pw9vf.bkt.clouddn.com/190905cover.jpg'
 categories: 'WRITING'
 ---
 
