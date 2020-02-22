@@ -10,6 +10,10 @@ categories: 'PHOTOGRAPHY'
 
 > “结庐在人境，而无车马喧……采菊东篱下，悠然见南山。”—— 陶渊明
 
+<audio id="audio" controls="" preload="none">
+<source id="mp3" src="http://q5q7pw9vf.bkt.clouddn.com/20200217othershome.m4a">
+</audio>
+
 古代人称呼自己的家为寒舍、草舍、舍下、敝庐……林间河畔结庐而居，是古代名士最理想的居住方式。
 
 《长物志》的作者、明末画家文震亨是园林艺术践行者。他认为居所应是**“令居之者忘老，寓之者忘归，游之者忘倦”**之地。
