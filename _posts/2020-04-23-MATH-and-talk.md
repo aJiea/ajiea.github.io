@@ -43,13 +43,7 @@ a、b两人参加冥想练习，老师说用你的舌头顶部触摸上颚。a�
 
 这个拼图游戏，就像瑜伽练习，刚开始看到一个倒立的姿势，感觉自己怎么可能做到，但是坚持几个月或几年后做到了。我们身体是不是也有看不见的缝隙，我们是否对自己身体能力潜力的极限有些误判？
 
-<iframe 
-    height=450 
-    width=800 
-    src="https://github.com/aJiea/ajiea.github.io/blob/master/_posts/200423/math.mp4" 
-    frameborder=0 
-    allowfullscreen>
-</iframe>
+<video src="https://github.com/aJiea/ajiea.github.io/blob/master/_posts/200423/math.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 
 ## 数学和讲话
