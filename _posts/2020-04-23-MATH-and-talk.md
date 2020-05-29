@@ -33,7 +33,7 @@ categories: 'MATH'
 
 ## 看不见的缝隙
 
-![](https://github.com/aJiea/ajiea.github.io/blob/master/_posts/200423/math.png)
+![image](/assets/image/200423/math.png)
 
 一个图形切分后，重新拼接出来的面积比原有面积大。为什么出现了看不见的缝隙？因为很多时候我们用眼睛去看，去观测，但是没有考虑到视觉和大脑作用的局限性。
 
@@ -43,7 +43,7 @@ a、b两人参加冥想练习，老师说用你的舌头顶部触摸上颚。a�
 
 这个拼图游戏，就像瑜伽练习，刚开始看到一个倒立的姿势，感觉自己怎么可能做到，但是坚持几个月或几年后做到了。我们身体是不是也有看不见的缝隙，我们是否对自己身体能力潜力的极限有些误判？
 
-<video src="https://github.com/aJiea/ajiea.github.io/blob/master/_posts/200423/math.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+<video src="/assets/image/200423/math.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 
 ## 数学和讲话
