@@ -10,11 +10,6 @@ categories: 'PHOTOGRAPHY'
 
 > “结庐在人境，而无车马喧……采菊东篱下，悠然见南山。”—— 陶渊明
 
-<br/>
-
-<audio id="audio" controls="" preload="none">
-<source id="mp3" src="http://q5q7pw9vf.bkt.clouddn.com/20200217othershome.m4a">
-</audio>
 
 <br/>
 
@@ -185,7 +180,7 @@ ISO | 200 |
 ISO | 400 | 
 设备 | NIKON D90 |
 
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug16.jpg)
+![image](/assets/image/200217/home-bug16.jpg)
 
 拍摄时间 | 2015年02月16日00h04 |
 拍摄地点 | 珠海东岸村 |
@@ -196,7 +191,7 @@ ISO | 1600 |
 音乐工作者的家族祖屋
 <br/>
 
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug21.jpg)
+![image](/assets/image/200217/home-bug21.jpg)
 
 拍摄时间 | 2002年 |
 拍摄地点 | 珠海东岸村 |
@@ -205,8 +200,9 @@ ISO | 1600 |
 音乐工作者的小动物们。这只叫旺旺的狗，从来不给主人添麻烦，它应该是有思想的。下午旺旺和它的小伙伴猫妈妈和猫儿子在祖屋里度过相互陪伴的时光。
 <br/>
 
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug15.jpg)
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug23.jpg)
+![image](/assets/image/200217/home-bug15.jpg)
+![image](/assets/image/200217/home-bug23.jpg)
+
 
 拍摄时间 | 2015年01月29日18h09和23日01h35 
 -|-
@@ -220,7 +216,8 @@ ISO | 400 |
 <br/>
 
 
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug17.jpg)
+![image](/assets/image/200217/home-bug17.jpg)
+
 
 拍摄时间 | 2014年05月27日18h32 |
 拍摄地点 | 珠海东岸村 |
@@ -233,7 +230,8 @@ ISO | 100 |
 <br/>
 
 
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug18.jpg)
+![image](/assets/image/200217/home-bug18.jpg)
+
 
 拍摄时间 | 2015年11月04日15h10 |
 拍摄地点 | 珠海东岸村绵始大楼 |
@@ -243,11 +241,12 @@ ISO | 400 |
 
 东岸绵始大楼由著名侨商黄绵始建于民国二十二年（1933年），大厅有胡汉民为屋主所题“绵始寄庐”四字，面积约440平方米，主体建筑楼高四层，建筑形式中西合璧。唐宋期间，该村地处金星水道岸边、南山脚下的东北面，故称“东岸”。唐代，村始祖黄姓人氏原在南山脚下居住，到宋朝年间才陆续迁至东岸。东岸村人历来勤奋好学、急公好义，以容闳盛赞“好望角以东，其医术无出其右”的晚清著名西医黄宽及绵始大楼主人、澳洲侨领黄绵始等为代表的先贤们，为推动国家和社会各项事业的发展做出了贡献。
 
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug28.jpg)
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug24.jpg)
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug29.jpg)
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug30.jpg)
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug31.jpg)
+![image](/assets/image/200217/home-bug28.jpg)
+![image](/assets/image/200217/home-bug24.jpg)
+![image](/assets/image/200217/home-bug29.jpg)
+![image](/assets/image/200217/home-bug30.jpg)
+![image](/assets/image/200217/home-bug31.jpg)
+
 
 拍摄时间 | 2017年11月 |
 拍摄地点 | 珠海东岸村绵始大楼楼顶露台 |
@@ -256,7 +255,8 @@ ISO | 400 |
 <br/>
 
 
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug19.jpg)
+![image](/assets/image/200217/home-bug19.jpg)
+
 
 拍摄时间 | 2015年08月13日07h06 |
 拍摄地点 | 古镇一隅 |
@@ -267,7 +267,8 @@ ISO | 320 |
 <br/>
 
 
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug20.jpg)
+![image](/assets/image/200217/home-bug20.jpg)
+
 
 拍摄时间 | 2017年11月11日01h09 |
 拍摄地点 | 珠海一城市民居的厨房 |
@@ -278,7 +279,8 @@ ISO | 200 |
 <br/>
 
 
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug22.jpg)
+![image](/assets/image/200217/home-bug22.jpg)
+
 
 拍摄时间 | 2013年11月07日11h57 |
 拍摄地点 | 珠海中山 |
@@ -291,9 +293,8 @@ ISO | 1000 |
 <br/>
 
 
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug25.jpg)
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug26.jpg)
-![](http://q5q7pw9vf.bkt.clouddn.com/home-bug27.jpg)
+![image](/assets/image/200217/home-bug25.jpg)![image](/assets/image/200217/home-bug26.jpg)![image](/assets/image/200217/home-bug27.jpg)
+
 
 拍摄时间 | 2017年12月13日17h41 |
 拍摄地点 | 珠海东岸村 |
