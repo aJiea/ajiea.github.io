@@ -1,7 +1,7 @@
 ﻿---
 title: 终身学习之浅谈启蒙
 layout: post
-data: '2020-06-30'
+data: '2020-07-30'
 author: Octodog🐙🐶
 tags: STUDY
 cover: 'https://github.com/aJiea/ajiea.github.io/blob/master/_posts/200710/cover.jpg'
