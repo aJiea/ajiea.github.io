@@ -13,6 +13,7 @@ categories: 'SELF-MANAGEMENT'
 <br/>
 
 这件事发生后我接到一个访谈，其中一个被问到的问题：``为什么遇到不公时要敢于发声？``
+
 <br/>
 
 
@@ -24,8 +25,8 @@ categories: 'SELF-MANAGEMENT'
 <br/>
 
 所以“抽烟跟你有关系吗？”还真没有直接关系，但是有间接关系。
-<br/>
 
+<br/>
 
 ## 去掉个人身份的沟通方式，化解冲突
 在公司管理，同伴合作中也会遇到类似问题，很常见。比如你给别人提出一个建议，一些人觉得你提出的建议是你在针对他，感到特别不公平。这种情况下有一种去身份化的沟通方式，去掉个人身份，``把人和人之间的冲突，转变成行为和规则之间的冲突``，这样可以避免给双方带来不必要的麻烦，保护自己，守护自己和合伙伙伴之间的情感关系。
@@ -35,6 +36,9 @@ categories: 'SELF-MANAGEMENT'
 <br/>
 
 表达了不代表取得了应有的效果，争取表达权≠解决问题。我觉得应该争取的是有效地表达途径和方式，包括从个人层面如何提高表达，以及可以通过什么途径，如一些机构或组织帮助发声。
+<br/>
+
+讲两个朋友的故事
 <br/>
 
 ### 案例1
@@ -57,8 +61,8 @@ A: 有些人可能马上会对这个问题提出正面抗议，“你怎么插�
 <br/>
 
 表达权，其实人人皆有，关键不在于争取，而是如何选择合适的表达方式取得目标人物的注意，解决问题。
-<br/>
 
+<br/>
 
 ## 明明禁烟的场所，为什么还有人抽烟？法国治疗“吞云吐雾”有手段
 法国吸烟人群的比例比中国大，吸烟禁烟之间的冲突在禁烟令颁发前也常常上演。因为没有明令禁止哪里可以吸烟，哪里不能吸烟，在餐厅里一些客人拒绝吸二手烟会直接找隔壁桌理论，这样有可能会产生冲突；如果餐厅客人找老板投诉，老板过去和抽烟的沟通，老板要么失去了吸烟的客户，要么失去了不吸烟的客户。
@@ -70,7 +74,6 @@ A: 有些人可能马上会对这个问题提出正面抗议，“你怎么插�
 > Depuis le 1er février 2007, il est interdit de fumer dans tous les lieux fermés et couverts accueillant du public ou qui constituent des lieux de travail, dans les établissements de santé, dans l’ensemble des transports en commun, et dans toute l’enceinte (y compris les endroits ouverts telles les cours d’écoles) des écoles, collèges et lycées publics et privés.
 
 <br/>
-
 为保证该法令的切实执行，法国政府专门派出17.5万名“烟警”负责``巡逻和检查``。他们有权对违反该法令者施以75欧元以上的罚款。
 <br/>
 
