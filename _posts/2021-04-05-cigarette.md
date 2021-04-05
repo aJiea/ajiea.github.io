@@ -1,12 +1,13 @@
 ---
 title: 去掉个人身份的沟通方式：对成都女子火锅店制止吸烟事件的看法
-layout: SELF-MANAGEMENT
+layout: post
 data: '2021-04-05'
 author: Octodog🐙🐶
-tags: WRITING
+tags: SELF-MANAGEMENT
 cover: 'https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/210405/COVER.JPG'
 categories: 'SELF-MANAGEMENT'
 ---
+
 
 3月29日晚，女子在火锅店制止邻桌吸烟被泼不明液体，男子当众嚣张放言“抽烟跟你有关系吗？”
 
