@@ -1,10 +1,10 @@
 ---
 title: 雕和塑
 layout: post
-data: '2018-04-05'
+data: '2019-04-05'
 author: Octodog🐙🐶
 tags: ARCHITECTURE
-cover: 'https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/180405/COVER.JPG'
+cover: 'https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/190405/COVER.JPG'
 categories: 'ARCHITECTURE'
 ---
 
