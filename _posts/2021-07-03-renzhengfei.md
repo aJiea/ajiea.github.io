@@ -8,7 +8,7 @@ cover: 'https://raw.githubusercontent.com/aJiea/ajiea.github.io/master/_posts/21
 categories: 'COGNITION'
 ---
 
-在《我的情绪为何总被他人左右》里，作者提到ABC情绪疗法。
+在《我的情绪为何总被他人左右》里，作者提到 ABC 情绪疗法。
 <br/>
 
 - A 代表事件发生；
